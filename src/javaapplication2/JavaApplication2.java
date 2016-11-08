@@ -12,7 +12,7 @@ package javaapplication2;
 
 
 public class JavaApplication2 {
-private String truc;
+private String truc; //ftiu
 
     /**
      * @param args the command line arguments
